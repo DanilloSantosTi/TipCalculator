@@ -13,7 +13,7 @@ A caixa de texto Bill amount (valor da conta) permite que o usuário insira o pr
 
 ## Tela
 <p float="left" align="left">
-<img width="30%" src="screenshots/Screenshot_1.png"/>
+<img width="30%" src="screenshots/screenshot_1.png"/>
 </p>
 
 ## Tecnologias usadas e bibliotecas de código aberto
